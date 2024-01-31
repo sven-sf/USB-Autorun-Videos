@@ -19,7 +19,12 @@ https://www.chip.de/downloads/AutoRunnerX_49410395.html
 
 ## Tutorial
 
-In diesem Tutorial erkläre ich euch, wie ihr Dateien sicher ausführen könnt. Dazu empfehle ich euch, das Programm Auto Runner X zu installieren. Dieses Programm bietet einen sicheren Weg, Dateien auszuführen. Um AutoRunnerX herunterzuladen, schaut euch bitte die Download-Anleitung an.
+In diesem Tutorial erkläre ich euch, wie ihr Dateien sicher ausführen könnt. Dazu empfehle ich euch, das Programm Auto Runner X zu installieren. Dieses Programm bietet einen sicheren Weg, Dateien auszuführen. Um AutoRunnerX herunterzuladen, schaut euch bitte die Download-Anleitung an. 
+
+Kurzes Beispiel, wo ihr alles von mir herunterladen könnt:
+![image](https://github.com/sven-sf/USB-Autorun-Videos/assets/146143584/cff6b91c-f287-448c-8a6f-4f78007db397)
+
+----
 
 Ich werde nicht erklären, wie ihr die Programme herunterladet oder installiert. Beginnen wir mit einem leeren USB-Stick. Bitte formatieren Sie Ihren USB-Stick so, dass der Code für die automatische-Vorbereitung.cmd
 darauf ist.
